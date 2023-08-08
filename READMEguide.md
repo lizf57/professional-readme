@@ -24,11 +24,11 @@ A high quality README file is a key component to every repository. The README is
  
  ![insert name of image](assets/images/screenshot.png) 
 
-  (to view code, make sure your are viewing in code in raw and not preview)
+(to view code, make sure your are viewing in code in raw and not preview)
 
 
   ## [Contributions](#Table-of-Contents)
-  If you created an application and want  other developers to contribute to it, you can include guidelines for how to do so. 
+If you created an application and want other developers to contribute to it, you can include guidelines for how to do so. 
 
 
   ## [Tests](#Table-of-Contents)
