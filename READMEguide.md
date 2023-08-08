@@ -1,6 +1,6 @@
-# Professional README Generator 
+# README GUIDE
 
-## Description
+# Description
 The purpose of this project was to create a README template that is simple and professional. By designing a template, I can be more efficient and consistent by focusing on the important aspects needed to use and understand the application. 
 
   ## Table-of-Contents
