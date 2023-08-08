@@ -22,7 +22,6 @@ The purpose of this project was to create a README template that is simple and p
   ## [Usage](#Table-of-Contents)
   Once the application is installed, run the following code in the terminal: 'node index.js'. Answer the questions/prompts until a message says 'File created!'
 
-
   ## [Contributions](#Table-of-Contents)
   There are no other contributors for this project.
 
