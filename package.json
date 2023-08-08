@@ -1,5 +1,5 @@
 {
-  "name": "professional-readme",
+  "name": "professional-readme-template",
   "version": "1.0.0",
   "description": "A README generator so that I can quickly create a professional README for a new project",
   "main": "index.js",
