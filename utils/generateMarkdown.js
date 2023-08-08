@@ -37,16 +37,38 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
+  ## Description
+  ${data.description}
+
   ## Table-of-Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [license](#license)
+  * [Contribution](#contribution)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
-  *[Description](#description)
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Contribution](#contribution)
-  *[Tests](#tests)
-  *[Questions](#questions)
+  ## Installation
+  Run the following command to install the dependencies needed:
+  ${data.installation}
 
-  ## [Description](#Table-of-Contents)
+  ## Usage
+  ${data.usage}
+
+  ## License
+  ${renderLicenseSection(data.license)}
+
+  ## Contribution
+  ${data.contibution}
+
+  ## Tests
+  Run the following command to run tests:
+  ${data.tests}
+
+  ## Questions 
+  If you have any questions contact me below:
+  [${data.email}](mailto:${data.email})
+  [${data.username}](https://github.com/${data.username}).
 `;
 }
 
