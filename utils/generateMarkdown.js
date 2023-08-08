@@ -23,10 +23,9 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== 'none'){
     return ` 
-    ## [License](#Table-of-Contents)
-    This project is covered under the following licence: ${renderLicenseLink(license)}`;
+    ${renderLicenseLink(license)}`;
   } else {
-    return ' ';
+    return 'no license';
   }
 }
 
@@ -63,11 +62,11 @@ function generateMarkdown(data) {
 
   ## Tests
   Run the following command to run tests:
-  ${data.tests}
+  ${data.test}
 
   ## Questions 
   If you have any questions contact me below:
-  [${data.email}](mailto:${data.email})
+  [${data.email}](mailto:${data.email}) or 
   [${data.username}](https://github.com/${data.username}).
 `;
 }
