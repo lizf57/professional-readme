@@ -12,7 +12,11 @@ The purpose of this project was to create a README template that is simple and p
 
 
   ## [Installation](#Table-of-Contents)
-  The link listed below is a direct link to the repository. 
+  1. Install 'node.js' https://nodejs.org/en/download 
+  
+  2. Install 'npm i inquirer' https://www.npmjs.com/package/inquirer
+  
+  3. The link listed below is a direct link to the repository:
   
   [README Generator Link](https://github.com/lizf57/professional-readme)
 
@@ -26,7 +30,7 @@ The purpose of this project was to create a README template that is simple and p
 
 
   ## [Contributions](#Table-of-Contents)
-  There are no other contributors for this project.
+  There are no direct contributors for this project. A starter code was provided by the University of Wisconsin Bootcamp program.
 
   ## [Tests](#Table-of-Contents)
   To test this application, open in VS code, or your prefered editor, and open the terminal. In the terminal, type 'node index.js' and answer the prompts.
