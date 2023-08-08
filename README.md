@@ -22,6 +22,8 @@ The purpose of this project was to create a README template that is simple and p
   ## [Usage](#Table-of-Contents)
   Once the application is installed, run the following code in the terminal: 'node index.js'. Answer the questions/prompts until a message says 'File created!'
 
+  https://github.com/lizf57/professional-readme/assets/133983565/bd91cf43-76e7-4187-ad0c-bd74e5ad0509
+
 
   ## [Contributions](#Table-of-Contents)
   There are no other contributors for this project.
@@ -35,3 +37,5 @@ If you have any questions contact me here:
   [GitHub](https://github.com/lizf57)
   
   [Email: lizfriedman5@gmail.com](mailto:lizfriedman5@gmail.com)
+
+
