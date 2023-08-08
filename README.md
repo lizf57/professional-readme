@@ -26,6 +26,8 @@ The purpose of this project was to create a README template that is simple and p
   ## [Usage](#Table-of-Contents)
   Once the application is installed, run the following code in the terminal: 'node index.js'. Answer the questions/prompts until a message says 'File created!'
 
+  A full walkthrough video of how to use the application is available in the assets folder in Github. The video file was too large to upload to the README. Click the link for a shortcut: [README walkthough video](https://github.com/lizf57/professional-readme).
+
   https://github.com/lizf57/professional-readme/assets/133983565/9af09dee-309a-44df-92aa-e7e6245352bd
 
 
