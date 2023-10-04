@@ -3,6 +3,12 @@
 ## Description
 The purpose of this project was to create a README template that is simple and professional. By designing a template, I can be more efficient and consistent by focusing on the important aspects needed to use and understand the application. 
 
+Click to see the [README walkthough video](https://drive.google.com/file/d/1kHjo2r_aUH3ctSArItCT-MIDCfOJFWHM/view?usp=drive_link).
+
+![screenshot](/assets/images/screenshot1.png)
+![screenshot](/assets/images/screenshot2.png)
+
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -11,7 +17,7 @@ The purpose of this project was to create a README template that is simple and p
   * [Questions](#questions)
 
 
-  ## [Installation](#Table-of-Contents)
+  ## [Installation](#table-of-contents)
   1. Install 'node.js' https://nodejs.org/en/download 
   
   2. Install 'npm i inquirer' https://www.npmjs.com/package/inquirer
@@ -23,21 +29,17 @@ The purpose of this project was to create a README template that is simple and p
   Once the link is clicked, you'll be brought to the repository on Github. Click the dropdown arrow on the green "code" button and clone the repo using your terminal. Once the repo is cloned, open it in VS code, or your choice of editor, and get started!
 
 
-  ## [Usage](#Table-of-Contents)
-  Once the application is installed, run the following code in the terminal: 'node index.js'. Answer the questions/prompts until a message says 'File created!'
-
-  A full walkthrough video of how to use the application is available in the assets folder in Github. The video file was too large to upload to the README. Click the link for a shortcut: [README walkthough video](https://github.com/lizf57/professional-readme).
-
-  https://github.com/lizf57/professional-readme/assets/133983565/9af09dee-309a-44df-92aa-e7e6245352bd
+  ## [Usage](#table-of-contents)
+  Once the application is installed, run the following code in the terminal: `node index.js`. Answer the questions/prompts until a message says 'File created!'
 
 
-  ## [Contributions](#Table-of-Contents)
+  ## [Contributions](#table-of-contents)
   There are no direct contributors for this project. A starter code was provided by the University of Wisconsin Bootcamp program.
 
-  ## [Tests](#Table-of-Contents)
+  ## [Tests](#table-of-contents)
   To test this application, open in VS code, or your prefered editor, and open the terminal. In the terminal, type 'node index.js' and answer the prompts.
 
-  ## [Questions](#Table-of-Contents)
+  ## [Questions](#table-of-contents)
 If you have any questions contact me here:
 
   [GitHub](https://github.com/lizf57)
